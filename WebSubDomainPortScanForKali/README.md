@@ -1,6 +1,6 @@
 # WebSubDomainPortScan(for Kali Linux)
 
-![Powered By|DefSkill]()
+[![Powered By|DefSkill]() --> (https://defskill.tech/)]
 
 How To Run This Script?
 
@@ -31,11 +31,11 @@ Resolving www.google.com (www.google.com)... ---.---.---.--- , ####:####:####:##
 Connecting to www.google.com (www.google.com)|---.---.---.---|:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: ‘index.html’
+Saving to: â€˜index.htmlâ€™
 
 index.html              [ <=>                ]  13.53K  --.-KB/s    in 0s     
 
-2019-08-18 01:33:33 (87.5 MB/s) - ‘index.html’ saved [13856]
+2019-08-18 01:33:33 (87.5 MB/s) - â€˜index.htmlâ€™ saved [13856]
 ```
 Its Out Put Changes when Start Scanning <IP ADRRESS> on Nmap for open ports...
 ```sh
